@@ -1,0 +1,15 @@
+.body-Container div {
+    display: flex;
+}
+
+div button {
+    width: 25vw;
+    height: 15vh;
+    border: .5px solid grey;
+    font-size: 25px;
+}
+
+div button:last-child {
+    background-color: orangered;
+    color: whitesmoke;
+}
